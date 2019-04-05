@@ -60,5 +60,5 @@ fastboot $* flash cust `dirname $0`/images/cust.img
 
 #fastboot $* erase config
 
-fastboot $* reboot"
+fastboot $* reboot'
 fastboot continue
